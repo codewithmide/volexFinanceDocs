@@ -1,0 +1,26 @@
+{
+  "name": "veloxfinancedocs",
+  "version": "1.0.0",
+  "description": "aggregator for compressed Solana tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "retype build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithmide/volexFinanceDocs.git"
+  },
+  "keywords": [
+    "docs",
+    "aggregator",
+    "blockchain",
+    "solana"
+  ],
+  "author": "codewithmide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithmide/volexFinanceDocs/issues"
+  },
+  "homepage": "https://github.com/codewithmide/volexFinanceDocs#readme"
+}

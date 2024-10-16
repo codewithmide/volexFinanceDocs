@@ -1,0 +1,17 @@
+input: .
+output: build
+url: https://velox-finance.vercel.app/
+branding:
+  title: Velox Finance
+  label: Docs
+links:
+- text: Website
+  link: https://velox-finance.vercel.app/
+- text: GitHub
+  link: https://github.com/codewithmide/Velox-Finance
+- text: Twitter
+  link: https://x.com/volexfinance
+- text: Telegram Community
+  link: https://t.me/+oYaDAs047nwzMThk
+footer:
+  copyright: "&copy; Volex Finance Copyright {{ year }}. All rights reserved."
